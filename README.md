@@ -1,7 +1,7 @@
 # EAD Coin Explorer
 
 <p align="center">
-    <img src="https://github.com/eadcoin/explorer/banner.png" />
+    <img src="https://github.com/eadcoin/explorer/blob/main/banner.png" />
 </p>
 
 ## Documentation
